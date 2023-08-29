@@ -1,4 +1,3 @@
-```markdown
 # Random Password Generator
 
 ![GitHub](https://img.shields.io/github/license/Jeevan2305/Random-Password-Generator)
@@ -42,7 +41,4 @@ Contributions to this project are welcome! If you have any ideas for improvement
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
 Happy password generating! 🔐
-```
